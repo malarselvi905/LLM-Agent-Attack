@@ -1,0 +1,6 @@
+{
+  "name": "LLM Agent Attack Lab (DVLA)",
+  "description": "Educational cybersecurity platform to safely simulate, detect, audit, and analyze vulnerabilities in LLM agents in a controlled sandbox environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
